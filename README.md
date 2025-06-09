@@ -104,7 +104,7 @@ Windows:
 Скачать репозиторий можно с помощью команды:
 
 ```
-git clone git@github.com:alexkozlovvv/cpp-search-server.git
+git clone git@github.com:alexkozlovvv/cpp-calculator.git
 ```
 
 ## Usage
