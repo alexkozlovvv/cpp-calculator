@@ -1,0 +1,4 @@
+# VScode files
+*.vscode
+.vscode/*
+build/*
